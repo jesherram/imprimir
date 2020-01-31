@@ -15,7 +15,7 @@ public class EjemploGIT {
         System.out.println("Imprimir 1");
     }
     public void imprimir2(){
-        System.out.println("Imprimir 1");
+        System.out.println("Imprimir 2 modificado");
     }
     
     public static void main(String [] args){
